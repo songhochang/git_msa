@@ -1,5 +1,25 @@
-div{
+/* div{
   background-color: rgb(0, 255, 213);
   width: 100px;
   height: 100px;
+} */
+
+header{
+  width: 100%;
+  height: 100px;
+  background-color: rgb(25, 200, 240);
 }
+
+ #container{
+  width: 1100px;
+  /* height: 100px; */
+  background-color: #888;
+  /* 북 동 남 서 */
+  margin: 0 auto;
+ }
+ a{
+  text-decoration: none;
+ }
+ /* div{
+  font-size: 150px;
+ } */
